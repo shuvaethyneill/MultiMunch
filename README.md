@@ -23,7 +23,7 @@ All data relating to customers, couriers, restaurants, orders, and food items wi
 	- This file is the SQLite3 database that makes up all of the data presented in the interface. It is stored in a database folder within the includes folder. 
 
 
-Note: The CSS folder contains open source formatting and design specifications. The images folder contains user profile images. 
+**Note: The CSS folder contains open source formatting and design specifications. The images folder contains user profile images. **
 
 ## Installation & Setup
 
